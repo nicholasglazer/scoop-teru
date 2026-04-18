@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/nicholasglazer/teru/releases/download/v0.6.2/teru-windows-x86_64.zip",
-            "hash": "c37463004abd50fc8b60a0d7dcf32ee00ee611cc08c1d479865e0a7b947b2115"
+            "hash": "a9ee2e8c06de6fd3b6ddad46f2330587ae26eb37786c23ddb2e8746b99bec705"
         }
     },
     "bin": "teru.exe",
