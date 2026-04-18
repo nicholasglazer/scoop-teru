@@ -1,12 +1,12 @@
 {
-    "version": "0.6.2",
+    "version": "0.6.3",
     "description": "AI-first terminal emulator, multiplexer, and tiling manager",
     "homepage": "https://github.com/nicholasglazer/teru",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nicholasglazer/teru/releases/download/v0.6.2/teru-windows-x86_64.zip",
-            "hash": "a9ee2e8c06de6fd3b6ddad46f2330587ae26eb37786c23ddb2e8746b99bec705"
+            "url": "https://github.com/nicholasglazer/teru/releases/download/v0.6.3/teru-windows-x86_64.zip",
+            "hash": "cdef85401bd61040aab60969ef7cfa849ea21cdd8007cbab4e778455d6ce0ec3"
         }
     },
     "bin": "teru.exe",
